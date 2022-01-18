@@ -6,7 +6,7 @@ Sejong Univ 17 Cs 소모임 테크세미나 저장소
    - 소스코드 이후 첨부 예정
    
  - 박태순 2022/01/16 : [웹 서버 vs WAS](https://velog.io/@taesunpark/웹서버-vs-WAS)
-   - 발표 pdf : [웹서버vsWAS.pdf](https://github.com/SJAlgorithm/SJTechSeminar/files/7886179/vsWAS.pdf)
+   - 발표 자료 : [웹서버vsWAS.pdf](https://github.com/SJAlgorithm/SJTechSeminar/files/7886179/vsWAS.pdf)
 
  - 강구민 2022/01/23 :
  - 김현욱 2022/01/30 : 
