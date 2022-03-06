@@ -9,5 +9,6 @@ Sejong Univ 17 Cs 소모임 테크세미나 저장소
    - 발표 자료 : [웹서버vsWAS.pdf](https://github.com/SJAlgorithm/SJTechSeminar/files/7886179/vsWAS.pdf)
    - 발표 동영상 링크 첨부 예정
  - 강구민 2022/01/23 :
- - 김현욱 2022/01/30 : 
+ - 김현욱 2022/01/30 : [SQL vs NoSQL(게시글 추가 예정)]()
+   - 발표 자료 : [SQLvsNOSQL.pdf](https://github.com/SJAlgorithm/SJTechSeminar/files/8192621/SQLvsNOSQL.pdf)
  - 위성철 2022/02/06 :
